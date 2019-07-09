@@ -1,6 +1,6 @@
 ---
-title: Development Issues
-date: 2016-08-06
+title: A Micron-accuracy Positioning Method for Aero Engine Turbine Blades
+date: 2018.06 - 2019.02
 description: How do development issues affect friendship?
 categories:
   - friendship
@@ -8,7 +8,8 @@ categories:
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: james
 ---
-Children with Attention deficit hyperactivity disorder (ADHD) may not have difficulty forming friendships, though they may have a hard time keeping them, due to impulsive behavior and hyperactivity. Children with Attention deficit disorder (ADD) may not have as much trouble keeping and maintaining friendships, though inattentiveness may complicate the processes.
+ The process of air film holes of aircraft engine turbine blade has a high rejection rate due to the error in the position and posture of workpiece. In this research, we acquire point cloud data using laser displacement sensor, then use matching algorithm to calculate the position and posture of the blade, and finally make adjustments accordingly during the processing. We have finished the primary test in a factory in Guizhou Province and obtained satisfactory results.
+ I participated in this project under the instruction of Prof. Wansheng Zhao in State Key Laboratory of Mechanical System and Vibration, Institute of Manufacturing Technology and Equipment Automation. I was engaged in point cloud registration and calibration of laser displacement sensor along with Xiaoshen Yan and Yuliang Zhong. 
 
 ![Cat](https://source.unsplash.com/random/1500x1000)
 
