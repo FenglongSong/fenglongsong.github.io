@@ -6,7 +6,7 @@ categories:
   - manufacturing
   - mechatronics
 # image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-image: images/research/turbine_blade/aeroengine.jpg
+image: images/research/blades/engine.jpg
 author_staff_member: james
 ---
  The process of air film holes of aircraft engine turbine blade has a high rejection rate due to the error in the position and posture of workpiece. In this research, we acquire point cloud data using laser displacement sensor, then use matching algorithm to calculate the position and posture of the blade, and finally make adjustments accordingly during the processing. We have finished the primary test in a factory in Guizhou Province and obtained satisfactory results.
