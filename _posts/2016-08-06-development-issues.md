@@ -21,7 +21,7 @@ Prof. Wansheng Zhao in State Key Laboratory of Mechanical System and Vibration, 
 
 ## Brief intro to technical route
 
-The 
+
 
 ![route](route.png)
 
