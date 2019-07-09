@@ -2,7 +2,9 @@ left_links:
   - name: Blog
     link: /blog/
   - name: Projects
-    link: /about/
+    link: /projects/
+  - name: Personal
+    link: /personal/
   - name: Contact
     link: /contact/
 right_links:
