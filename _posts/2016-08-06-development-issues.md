@@ -3,15 +3,17 @@ title: A Micron-accuracy Positioning Method for Aero Engine Turbine Blades
 date: 2018.06 - 2019.02
 description: How do development issues affect friendship?
 categories:
-  - friendship
-  - psychology
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
+  - manufacturing
+  - mechatronics
+# image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
+image: images/research/turbine_blade/aeroengine.jpg
 author_staff_member: james
 ---
  The process of air film holes of aircraft engine turbine blade has a high rejection rate due to the error in the position and posture of workpiece. In this research, we acquire point cloud data using laser displacement sensor, then use matching algorithm to calculate the position and posture of the blade, and finally make adjustments accordingly during the processing. We have finished the primary test in a factory in Guizhou Province and obtained satisfactory results.
  I participated in this project under the instruction of Prof. Wansheng Zhao in State Key Laboratory of Mechanical System and Vibration, Institute of Manufacturing Technology and Equipment Automation. I was engaged in point cloud registration and calibration of laser displacement sensor along with Xiaoshen Yan and Yuliang Zhong. 
 
 ![Cat](https://source.unsplash.com/random/1500x1000)
+
 
 Parents of children with ADHD worry about their children's ability to form long-lasting friendships. According to Edelman, "Making and keeping friends requires 'hundreds' of skills – talking, listening, sharing, being empathetic, and so on. These skills do not come naturally to children with ADD". Difficulty listening to others also inhibits children with ADD or ADHD from forming good friendships. Children with these disorders can also drive away others by "blurting out unkind comments". Their disruptive behavior can become too distracting to classmates.
 
