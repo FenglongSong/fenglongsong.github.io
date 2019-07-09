@@ -12,13 +12,14 @@ author_staff_member: james
 ---
  The process of air film holes of aircraft engine turbine blade has a high rejection rate due to the error in the position and posture of workpiece. In this research, we acquire point cloud data using laser displacement sensor, then use matching algorithm to calculate the position and posture of the blade, and finally make adjustments accordingly during the processing. 
 
- When fixed by fixtures, there is always positioning and posturing error between the workpiece and fixtures, about several milimeters or degrees. Although tiny, this error can be fatal when machining air holes on aero-engine turbine blades, considering thousands of holes need to be made on an area of several square centimeters. Factory No.170 in Guiyang, Guizhou Province has undertaken over 70% of the production of military turbine blades in China. Previously, workers in this factory had to make adjustment by manual observation to make sure the blade is at the correct position and posture. In this way, precise adjustments are difficult to be made, which brings a high reject rate in hole-making process. Considering each blade worths thousands of dollars, this adds to the cost greatly.
+ When fixed by fixtures, there is always positioning and posturing error between the workpiece and fixtures, about several milimeters or degrees. Although tiny, this error can be fatal when machining air holes on aero-engine turbine blades, considering thousands of holes need to be made on an area of several square centimeters. Factory No.170 in Guiyang, Guizhou Province has undertaken over 70% of the production of military turbine blades in China. Previously, workers in this factory had to make adjustment by manual observation to make sure the blade is at the correct position and posture. In this way, precise adjustments are difficult to be made, which brings a high reject rate in hole-making process. Considering each blade worths thousands of dollars, this accounts for a great part of the cost in producing.
  
 
 ![Cat](../touch-icon.png)
 
+Prof. Wansheng Zhao in State Key Laboratory of Mechanical System and Vibration, Institute of Manufacturing Technology and Equipment Automation, Shanghai Jiao Tong University has led a team to build an automated, high-precision system to help No.170 factory reduce the reject rate in film hols making process. And I participated in this project under his instruction. My contribution was mainly on point cloud registration and calibration of laser displacement sensor. 
 
-I participated in this project under the instruction of Prof. Wansheng Zhao in State Key Laboratory of Mechanical System and Vibration, Institute of Manufacturing Technology and Equipment Automation. My contribution was mainly on point cloud registration and calibration of laser displacement sensor. 
+## Brief intro to technical route
 
 ![Lady bugs](https://source.unsplash.com/random/1500x1001)
 
