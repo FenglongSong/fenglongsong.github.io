@@ -1,7 +1,8 @@
 # ----
 # Site
 
-title: Frisco Template
+# 这里似乎是页面的标题
+title: Fenglong Song's Homepage
 url: "https://brave-submarine.cloudvent.net"
 baseurl:
 google_analytics_key:
