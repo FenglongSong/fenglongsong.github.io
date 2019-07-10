@@ -1,6 +1,6 @@
 ---
 title: A Micron-accuracy Positioning Method for Aero Engine Turbine Blades
-date: 2019.07.10
+date: 2019.02.20
 description: 
 categories:
   - manufacturing
