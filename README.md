@@ -1,11 +1,14 @@
-# Frisco
+# Fenglong Song's Homepage
+
+Welcome to [Fenglong Song's homepage](https://fenglongsong.github.io/). 
+
+This homepage project is created based on Frisco, which is a template made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll. A lot of thanks to CludCannon for providing such wonderful template!
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
 Increase the web presence of a App with this configurable theme.
 
 ![Frisco template screenshot](images/_screenshot.jpg)
 
-Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
