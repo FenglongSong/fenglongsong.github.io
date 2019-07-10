@@ -1,5 +1,5 @@
 ---
-title: The Design of Mobile Autonomous Attenna Tracker
+title: The Design of Mobile Autonomous Antenna Tracker
 date: 2017.03-2018.09
 description: How do friendships develop?
 categories:
