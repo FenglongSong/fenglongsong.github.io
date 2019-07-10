@@ -1,12 +1,16 @@
 ---
-title: Life cycle of friendships
-date: 2016-08-02
+title: The Design of Mobile Autonomous Attenna Tracker
+date: 2017.03-2018.09
 description: How do friendships develop?
 categories:
   - friendship
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: anna
 ---
+Mobile Auto Antenna Tracker is designed to enlarge the flying range of the model plane or unmanned aircraft. It also brings about the convenience for the following service for the unmanned-aircraft by coupling antenna tracker with the moving car or mobile platform. The progress is made by obtaining the GPS information of both the plane and the ground tracker.
+   
+This project was awarded as an outstanding project in 19th Shanghai Undergraduate Innovation Program.
+
 Three significant factors make the formation of a friendship possible:
 
 * Proximity – nearness or having a place or places to interact
@@ -14,10 +18,3 @@ Three significant factors make the formation of a friendship possible:
 * A setting that encourages people to confide in each other
 
 ![Coins](https://source.unsplash.com/random/1500x1000)
-
-## Dissolution
-Friendships end for many different reasons. Sometimes friends move away from each other and the relationship wanes due to the distance. Digital technology has however made geographic distance less of an obstacle to maintaining a friendship. Sometimes divorce causes an end to friendships, as people drop one or both of the divorcing people. For young people, friendships may end as a result of acceptance into new social groups.
-
-![American River](https://source.unsplash.com/random/1500x1001)
-
-Friendships may end by fading quietly away or may end suddenly. How and whether to talk about the end of a friendship is a matter of etiquette that depends on the circumstances.
