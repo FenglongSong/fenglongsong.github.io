@@ -37,4 +37,3 @@ I also used a data structure called KD-tree to optimize the searching process.
 
 ![Marketing](https://source.unsplash.com/random/1500x1003)
 
-
