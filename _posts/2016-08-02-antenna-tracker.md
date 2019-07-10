@@ -1,9 +1,9 @@
 ---
 title: The Design of Mobile Autonomous Antenna Tracker
-date: 2017.03-2018.09
-description: How do friendships develop?
+date: 2017-03-20
+description: 
 categories:
-  - friendship
+  - mechatronics
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: anna
 ---
