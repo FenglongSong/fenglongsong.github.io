@@ -28,11 +28,10 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 		<div class="container flex">
 			<div class="text">
 				<p class="editable"><b>Intro:</b> We built mathematics model for both forward and inverse kinematics of UR10 manipulator
-					based on D-H coordinates and exponential coordinates method, res
-					To practice the robotics techniques learned in course, we modeled and simulated the pick 
-							and place motion of the robot arm and selected the motors based on the results. 
-							Firstly I modeled the arm using D-H coordinates in MATLAB  and calculated the torque for each joint using robotic toolbox. 
-							Then I used gazebo to install a lazer sensor on the robot arm and control it to push the near boxes in ROS. </p>
+					based on D-H coordinates and exponential coordinates method, Firstly we modeled the arm using D-H coordinates in MATLAB 
+					. Secondly we calculated built the dynamics model for UR10 manipulator based on Newton-Euler method ,wrote it into a MATLAB 
+					function and then compare the result with Robotics Toolbox. Thirdly, we used Simulink, Adams as well as ROS MoveIt to simulate
+					the motion of robot. Finally, we selected motors and reducers for each joint based on our calculating results. </p>
 			</div>
 		</div>
 		
