@@ -4,8 +4,7 @@
 # 这里似乎是页面的标题
 title: Fenglong Song's Homepage
 url: "https://brave-submarine.cloudvent.net"
-# baseurl: "fenglongsong.github.io"
-baseurl: "fenglongsong.github.io"
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
