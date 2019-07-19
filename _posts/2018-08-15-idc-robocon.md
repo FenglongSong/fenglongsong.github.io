@@ -11,6 +11,6 @@ author_staff_member: Fenglong Song
       
   
   I participated in IDC ROBOCON 2018 during Aug. 5th to Aug. 19th in Tokyo Institute of Technology, along with Yuliang Zhong, Mian Wang, Jiayuan Hu and Jingyong Li from SJTU. I was in team red and my four teammates are from Singapore, India, Japan and Mexico. We had a pleasant and unforgettable cooperation and finally we won the NSK Award.
-![idc](../../images/research/robocon/robocon_1.jpg)
+![idc](../../../images/research/robocon/robocon_1.jpg)
 
 ![Coins](https://source.unsplash.com/random/1500x1000)
