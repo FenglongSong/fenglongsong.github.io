@@ -7,7 +7,7 @@ categories:
   - mechatronics
 # image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 # image: https://cn.bing.com/images/search?view=detailV2&ccid=I7wSa8Wh&id=818B385A3FB3FE0806E572721AFF0E676228E62A&thid=OIP.I7wSa8WhOoT0DzJyx1EwCgHaE8&mediaurl=http%3A%2F%2Fpic73.nipic.com%2Ffile%2F20150721%2F15758100_102029692225_2.jpg&exph=683&expw=1024&q=%e8%88%aa%e7%a9%ba%e5%8f%91%e5%8a%a8%e6%9c%ba%e6%b6%a1%e8%bd%ae%e5%8f%b6%e7%89%87&simid=608027416506008882&selectedindex=4&ajaxhist=0&vt=0
-image: ../images/research/blades/engine.jpg
+image: ../../images/research/blades/engine.jpg
 author_staff_member: james
 ---
  The process of air film holes of aircraft engine turbine blade has a high rejection rate due to the error in the position and posture of workpiece. In this research, we acquire point cloud data using laser displacement sensor, then use matching algorithm to calculate the position and posture of the blade, and finally make adjustments accordingly during the processing. 
