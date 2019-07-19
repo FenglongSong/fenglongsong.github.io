@@ -17,4 +17,4 @@ author_staff_member: Fenglong Song
 
 ![idc](./images/research/robocon/robocon_1.jpg)
 
-![Coins](https://source.unsplash.com/random/1500x1000)
+<!-- ![Coins](https://source.unsplash.com/random/1500x1000) -->
