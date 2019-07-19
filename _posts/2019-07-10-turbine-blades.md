@@ -16,7 +16,7 @@ author_staff_member: james
  When fixed by fixtures, there is always positioning and posturing error between the workpiece and fixtures, about several milimeters or degrees. Although tiny, this error can be fatal when machining air holes on aero-engine turbine blades, considering thousands of holes need to be made on an area of several square centimeters. Factory No.170 in Guiyang, Guizhou Province has undertaken over 70% of the production of military turbine blades in China. Previously, workers in this factory had to make adjustment by manual observation to make sure the blade is at the correct position and posture. In this way, precise adjustments are difficult to be made, which brings a high reject rate in hole-making process. Considering each blade worths thousands of dollars, this accounts for a great part of the cost in producing.
  
 
-![Cat](../touch-icon.png)
+![Turbine_blade](../images/research/blades/engine.jpg)
 
 Prof. Wansheng Zhao in State Key Laboratory of Mechanical System and Vibration, Institute of Manufacturing Technology and Equipment Automation, Shanghai Jiao Tong University has led a team to build an automated, high-precision system to help No.170 factory reduce the reject rate in film hols making process. And I participated in this project under his instruction. My contribution was mainly on point cloud registration and calibration of laser displacement sensor. 
 
