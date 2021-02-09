@@ -10,15 +10,16 @@ My name is Fenglong Song. I'm currently a first yesr Master student at ETH Zuric
 
 ## Education
 
-### Bachelor of Science in Mechanical Engineering
+### Master of Science in Mechanical Engineering [2020-now]
+Eidgenössische Technische Hochschule Zürich (ETH Zürich), Zürich, Switzerland
+Focus on robotics, systems and control
+
+### Bachelor of Science in Mechanical Engineering [2016-2020]
+School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China
+Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU.
 
 ## Contact
-
-
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Email: [song.f.l AT alumni.sjtu.edu.cn]
 
 
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
