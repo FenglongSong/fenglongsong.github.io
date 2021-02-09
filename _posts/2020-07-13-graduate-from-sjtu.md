@@ -8,5 +8,7 @@ location: "Shanghai, China"
 
 Finally graduated.  A lot of thanks to this place. SJTU will always be my home!
 
-<!-- ![Shot on SJTU Commercement 2020] (../images/graduate_1.jpeg "good") -->
+![Shot on SJTU Commercement 2020] (https://github.com/FenglongSong/fenglongsong.github.io/tree/master/images/graduate_1.jpeg)
+<!-- <figure>
 <img src="../images/graduate_1.jpeg" width="100" height="30" align="middle" />
+</figure> -->
