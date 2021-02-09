@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="100px" align="right" %}
 
 Hello! My name is Fenglong Song (宋奉隆 in Chinese). I was born and grew up in Luohe, Henan Province, China. I'm currently a first yesr Master student in Robotics at ETH Zürich in Switzerland.
 
