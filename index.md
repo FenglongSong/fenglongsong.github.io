@@ -12,22 +12,22 @@ My name is Fenglong Song (宋奉隆 in Chinese). I was born and grew up in Luohe
 
 ### **M.Sc in Mechanical Engineering** [2020-now]
 
-**Eidgenössische Technische Hochschule Zürich (ETH Zürich)**
-Department of Mechanical and Process Engineering (D-MAVT)  
-Focus on motion planning and control in robotics
+Eidgenössische Technische Hochschule Zürich (ETH Zürich)
+- Department of Mechanical and Process Engineering (D-MAVT)  
+- Focus on motion planning and control in robotics
 
 ### **B.Sc in Mechanical Engineering** [2016-2020]
 
-**Shanghai Jiao Tong University (SJTU)**
-School of Mechanical Engineering & Zhiyuan Honors Program  
-Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
+Shanghai Jiao Tong University (SJTU)
+- School of Mechanical Engineering & Zhiyuan Honors Program  
+- Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
 
 ## Working Experience
 
 ### Locomotion Control Intern [2020.06-2020.08]
 
 Deep Robotics, Hangzhou, China  
-Worked as a intern to implement and deploy control algorithms on Jueying Mini, a high-permance quadrupedal robot to realize pronk and moon-walk motion
+- Worked as a intern to implement and deploy control algorithms on Jueying Mini, a high-permance quadrupedal robot to realize pronk and moon-walk motion
 
 ## Contact
 
