@@ -6,19 +6,21 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %}
 
-My name is Fenglong Song (宋奉隆 in Chinese). I was born and grew up in Luohe, Henan Province, China. I'm currently a first yesr Master student in Robotics at ETH Zürich in Switzerland.
+Hello! My name is Fenglong Song (宋奉隆 in Chinese). I was born and grew up in Luohe, Henan Province, China. I'm currently a first yesr Master student in Robotics at ETH Zürich in Switzerland.
+
+I received my honorary Bachelor's from Shanghai Jiao Tong University (SJTU). My research interest is in motion planning and control of robotics systems, especially achieving agile and robust movement of quadruped robots in unstructured or unknown environments. I will keep working on that during my graduate study.
 
 ## Education
 
-### **M.Sc in Mechanical Engineering** [2020-now]
+### M.Sc in Mechanical Engineering [2020-now]
 
-Eidgenössische Technische Hochschule Zürich (ETH Zürich)
+- Eidgenössische Technische Hochschule Zürich (ETH Zürich)
 - Department of Mechanical and Process Engineering (D-MAVT)  
 - Focus on motion planning and control in robotics
 
-### **B.Sc in Mechanical Engineering** [2016-2020]
+### B.Sc in Mechanical Engineering [2016-2020]
 
-Shanghai Jiao Tong University (SJTU)
+- Shanghai Jiao Tong University (SJTU)
 - School of Mechanical Engineering & Zhiyuan Honors Program  
 - Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
 
@@ -26,8 +28,13 @@ Shanghai Jiao Tong University (SJTU)
 
 ### Locomotion Control Intern [2020.06-2020.08]
 
-Deep Robotics, Hangzhou, China  
+- Deep Robotics, Hangzhou, China  
 - Worked as a intern to implement and deploy control algorithms on Jueying Mini, a high-permance quadrupedal robot to realize pronk and moon-walk motion
+
+### Student Intern [2019.08-2019.09]
+
+- University of California, Berkeley  
+- Research Assistant at Mechanical Systems Control Lab supervised by Prof. Masayoshi Tomizuka. Worked on motion planning in roundabout scenarios for self-driving cars, which was a part of work in the construction of INTERACT Dataset.
 
 ## Contact
 
