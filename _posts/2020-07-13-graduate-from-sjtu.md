@@ -2,8 +2,10 @@
 layout: post
 title: "Graduate from SJTU"
 description: "Wooky musings"
-categories: ["banter", "thoughts", "dreams", "fears"]
-location: "Galaxy far far away"
+categories: ["SJTU", "graduation"]
+location: "Shanghai, China"
 ---
 
-I finally graduated from Shanghai Jiao Tong University.
+Finally graduated.  A lot of thanks to this place. SJTU will always be my home!
+
+![Shot on SJTU Commercement 2020] (./images/graduate_1.jpeg)
