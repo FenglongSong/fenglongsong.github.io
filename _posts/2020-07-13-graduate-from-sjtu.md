@@ -13,7 +13,7 @@ Finally graduated.  A lot of thanks to this place. SJTU will always be my home!
 <!-- ![Shot on SJTU Commercement 2020] (images/graduate_2.jpg) -->
 
 <figure>
-<a><img src="{{https://github.com/FenglongSong/fenglongsong.github.io}}/images/graduate_2.jpg"></a>
+<a><img alt="Shot on SJTU Commercement 2020" src="{{https://github.com/FenglongSong/fenglongsong.github.io}}/images/graduate_1.jpeg"></a>
 </figure>
 
 <!-- <figure>
