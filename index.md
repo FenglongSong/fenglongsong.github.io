@@ -4,11 +4,11 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" width="400px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" width="300px" align="right" %}
 
 Hello! My name is Fenglong Song (宋奉隆 in Chinese). I was born and grew up in Luohe, Henan Province, China. I'm currently a first yesr Master student in Robotics at ETH Zürich in Switzerland.
 
-I received my honorary Bachelor's from Shanghai Jiao Tong University (SJTU). My research interest is in motion planning and control of robotics systems, especially achieving agile and robust movement of quadruped robots in unstructured or unknown environments. I will keep working on that during my graduate study.
+I received my honorary Bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2020. My research interest is in motion planning and control of robotics systems, especially achieving agile and robust movement of quadruped robots in unstructured or unknown environments. I will keep working on that during my graduate study.
 
 ## Education
 
