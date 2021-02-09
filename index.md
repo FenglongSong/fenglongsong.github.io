@@ -6,20 +6,20 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-My name is Fenglong Song. I'm currently a first yesr Master student at ETH Zurich in Switzerland.
+My name is Fenglong Song. I'm currently a first yesr Master student at ETH Zürich in Switzerland.
 
 ## Education
 
-### Master of Science in Mechanical Engineering [2020-now]
+#### M.Sc in Mechanical Engineering [2020-now]
 Eidgenössische Technische Hochschule Zürich (ETH Zürich), Zürich, Switzerland
 Focus on robotics, systems and control
 
-### Bachelor of Science in Mechanical Engineering [2016-2020]
+#### B.Sc in Mechanical Engineering [2016-2020]
 School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China
-Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU.
+Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
 
 ## Contact
-Email: [song.f.l AT alumni.sjtu.edu.cn]
+Email: [song.f.l@alumni.sjtu.edu.cn]
 
 
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
