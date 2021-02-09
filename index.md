@@ -4,21 +4,26 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %}
 
 My name is Fenglong Song. I'm currently a first yesr Master student in Robotics at ETH Zürich in Switzerland.
 
 ## Education
 
 
-#### M.Sc in Mechanical Engineering [2020-now]
+#### ** M.Sc in Mechanical Engineering ** [2020-now]
 
 Eidgenössische Technische Hochschule Zürich (ETH Zürich)
-Focus on robotics, systems and control
 
-#### B.Sc in Mechanical Engineering [2016-2020]
+Department of Mechanical and Process Engineering (D-MAVT)
 
-Shanghai Jiao Tong University (SJTU), Shanghai, China
+Focus on motion planning and control in robotics
+
+#### ** B.Sc in Mechanical Engineering ** [2016-2020]
+
+Shanghai Jiao Tong University (SJTU)
+
+School of Mechanical Engineering & Zhiyuan Honors Program
 
 Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
 
