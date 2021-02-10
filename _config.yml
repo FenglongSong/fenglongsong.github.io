@@ -6,7 +6,8 @@ permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "http://fenglongsong.github.io"     # the base hostname & protocol for your site
-baseurl: "/fenglongsong.github.io"                   # the subpath of your site, e.g. /blog
+# baseurl: "/fenglongsong.github.io"                   # the subpath of your site, e.g. /blog
+# baseurl: ""
 
 author:
     name:
