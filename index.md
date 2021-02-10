@@ -12,15 +12,13 @@ I received my honorary Bachelor's degree from Shanghai Jiao Tong University (SJT
 
 ## Education
 
-### M.Sc in Mechanical Engineering [2020-now]
+### M.Sc in Mechanical Engineering [2020-now], Eidgenössische Technische Hochschule Zürich (ETH Zürich) 
 
-- Eidgenössische Technische Hochschule Zürich (ETH Zürich)
 - Department of Mechanical and Process Engineering (D-MAVT)  
 - Focus on motion planning and control in robotics
 
-### B.Sc in Mechanical Engineering [2016-2020]
+### B.Sc in Mechanical Engineering [2016-2020], Shanghai Jiao Tong University (SJTU)
 
-- Shanghai Jiao Tong University (SJTU)
 - School of Mechanical Engineering & Zhiyuan Honors Program  
 - Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
 
