@@ -83,14 +83,13 @@ pubs:
 
 {% endfor %} -->
 
-### Control
+### Dynamics & Control
 
-- Linear Systems Theory 
-<!-- - (ETH 227-0225-00) -->
-- Model Predictive Control
-<!-- -   (ETH 151-0660-00) -->
-- Advanced Model Predictive Control
+- Robot Dynamics
+- Linear Systems Theory
 - Dynamic Programming and Optimal Control
+- Model Predictive Control
+- Advanced Model Predictive Control
 - Recursive Estimation
 
 ### Optimization
@@ -98,16 +97,18 @@ pubs:
 - Introduction to Mathematical Optimization
 - Optimization for Data Science
 
-## Machine Learning
+### Machine Learning
 
-- Introduction to Machine Learning 
-<!-- - (ETH 252-0220-00) -->
+- Introduction to Machine Learning
 - Probabilisitic Artificial Intelligence
 
-## Robotics
+### Vision & Motion Planning
 
 - Vision Algorithms for Mobile Robots
 - Autonomous Mobile Robots
-- Robot Dynamics
+- Planning and Decision Making for Autonomous Robots
+
+### Programming
+
 - Programming for Robotics - ROS
 - Computational Models of Motion
