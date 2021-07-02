@@ -19,18 +19,18 @@ I received my honorary Bachelor's degree from Shanghai Jiao Tong University (SJT
 
 ### B.Sc in Mechanical Eng. [2016-2020], Shanghai Jiao Tong University (SJTU)
 
-- School of Mechanical Engineering & Zhiyuan Honors Program  
+- School of Mechanical Engineering & Zhiyuan Honors Program(an elite program for SJTU student majoring in STEM)
 - Graduated with Zhiyuan Honors Degree. Outstanding graduate of SJTU
 
 ## Working Experience
 
-### Locomotion Control Intern [2020.06-2020.08] Deep Robotics
+### Locomotion Control Intern [2020.06-2020.08] [Deep Robotics](https://www.deeprobotics.cn/en/)
 
 - Worked as a intern to implement and deploy control algorithms on Jueying Mini, a high-permance quadrupedal robot to realize pronk and moon-walk motion
 
 ### Student Intern [2019.08-2019.09] University of California, Berkeley
 
-- Research Assistant at Mechanical Systems Control Lab supervised by Prof. Masayoshi Tomizuka. Worked on motion planning in roundabout scenarios for self-driving cars, which was a part of work in the construction of INTERACT Dataset.
+- Research Assistant at [Mechanical Systems Control Lab](https://msc.berkeley.edu/) supervised by Prof. Masayoshi Tomizuka. Worked on motion planning in roundabout scenarios for self-driving cars, which was a part of work in the construction of INTERACT Dataset.
 
 ## Contact
 
