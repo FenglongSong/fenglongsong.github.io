@@ -83,8 +83,18 @@ pubs:
 
 {% endfor %} -->
 
+## Control
 
-Optimization:
+- Linear Systems Theory
+- Model Predictive Control
+- Dynamic Programming and Optimal Control
+- Recursive Estimation
 
-Introduction to Mathematical Optimization
-Optimization for Data Science
+## Optimization
+
+- Introduction to Mathematical Optimization
+- Optimization for Data Science
+
+## Machine Learning
+
+- Introduction to Machine Learning
