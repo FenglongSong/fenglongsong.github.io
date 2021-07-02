@@ -82,3 +82,9 @@ pubs:
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %} -->
+
+
+Optimization:
+
+Introduction to Mathematical Optimization
+Optimization for Data Science
