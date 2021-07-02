@@ -36,5 +36,5 @@ I received my honorary Bachelor's degree from Shanghai Jiao Tong University (SJT
 
 Email: [song.f.l@alumni.sjtu.edu.cn]
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+<!-- [Yavin]: https://en.wikipedia.org/wiki/Yavin
+[chewy@rebel.com]: mailto:chewy@rebel.com -->
