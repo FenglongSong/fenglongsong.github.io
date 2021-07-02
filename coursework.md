@@ -83,7 +83,7 @@ pubs:
 
 {% endfor %} -->
 
-## Control
+### Control
 
 - Linear Systems Theory 
 <!-- - (ETH 227-0225-00) -->
@@ -93,7 +93,7 @@ pubs:
 - Dynamic Programming and Optimal Control
 - Recursive Estimation
 
-## Optimization
+### Optimization
 
 - Introduction to Mathematical Optimization
 - Optimization for Data Science
