@@ -87,6 +87,7 @@ pubs:
 
 - Linear Systems Theory (ETH 227-0225-00)
 - Model Predictive Control (ETH 151-0660-00)
+- Advanced Model Predictive Control
 - Dynamic Programming and Optimal Control
 - Recursive Estimation
 
