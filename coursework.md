@@ -85,8 +85,8 @@ pubs:
 
 ## Control
 
-- Linear Systems Theory
-- Model Predictive Control
+- Linear Systems Theory (ETH 227-0225-00)
+- Model Predictive Control (ETH 151-0660-00)
 - Dynamic Programming and Optimal Control
 - Recursive Estimation
 
@@ -97,4 +97,13 @@ pubs:
 
 ## Machine Learning
 
-- Introduction to Machine Learning
+- Introduction to Machine Learning (ETH 252-0220-00)
+- Probabilisitic Artificial Intelligence
+
+## Robotics
+
+- Vision Algorithms for Mobile Robots
+- Autonomous Mobile Robots
+- Robot Dynamics
+- Programming for Robotics - ROS
+- Computational Models of Motion
