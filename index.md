@@ -24,7 +24,9 @@ I received my honorary Bachelor's degree from Shanghai Jiao Tong University (SJT
 
 ## Working Experience
 
-### Locomotion Control Intern [2020.06-2020.08] [Deep Robotics](https://www.deeprobotics.cn/en/)
+<!-- ### Locomotion Control Intern [2020.06-2020.08] [Deep Robotics](https://www.deeprobotics.cn/en/) -->
+### Locomotion Control Intern [2020.06-2020.08] <p align="right"> [Deep Robotics](https://www.deeprobotics.cn/en/) </p>
+<!-- <p align="right">月是故乡明</p> -->
 
 - Worked as a intern to implement and deploy control algorithms on Jueying Mini, a high-permance quadrupedal robot to realize pronk and moon-walk motion
 
