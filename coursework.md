@@ -100,7 +100,7 @@ pubs:
 ### Machine Learning
 
 - Introduction to Machine Learning
-- Probabilisitic Artificial Intelligence
+- Probabilistic Artificial Intelligence
 
 ### Vision & Motion Planning
 
