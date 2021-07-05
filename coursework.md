@@ -85,30 +85,30 @@ pubs:
 
 ### Dynamics & Control
 
-- Robot Dynamics
-- Linear Systems Theory
-- Dynamic Programming and Optimal Control
-- Model Predictive Control
-- Advanced Model Predictive Control
-- Recursive Estimation
+- Robot Dynamics (Prof. Marco Hutter)
+- Linear Systems Theory (Dr. Marcello Colombino)
+- Dynamic Programming and Optimal Control (Prof. Raffaello D’Andrea)
+- Recursive Estimation (Prof. Raffaello D’Andrea)
+- Model Predictive Control (Prof. ‪Melanie Zeilinger)
+- Advanced Model Predictive Control (Prof. ‪Melanie Zeilinger)
 
 ### Optimization
 
-- Introduction to Mathematical Optimization
-- Optimization for Data Science
+- Introduction to Mathematical Optimization (Prof. David Adjiashvili)
+- Optimization for Data Science (Prof. David Steurer )
 
 ### Machine Learning
 
-- Introduction to Machine Learning
-- Probabilistic Artificial Intelligence
+- Introduction to Machine Learning (Prof. Andreas Krause)
+- Probabilistic Artificial Intelligence (Prof. Andreas Krause)
 
 ### Vision & Motion Planning
 
-- Vision Algorithms for Mobile Robots
-- Autonomous Mobile Robots
-- Planning and Decision Making for Autonomous Robots
+- Vision Algorithms for Mobile Robots (Prof. Davide Scaramuzza)
+- Autonomous Mobile Robots (Prof. Roland Sigwart)
+- Planning and Decision Making for Autonomous Robots (Prof. Emilio Frazzoli)
 
 ### Programming
 
-- Programming for Robotics - ROS
-- Computational Models of Motion
+- Programming for Robotics - ROS (Prof. Marco Hutter)
+- Computational Models of Motion (Prof. Stelian Coros)
