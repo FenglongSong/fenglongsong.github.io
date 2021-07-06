@@ -1,6 +1,6 @@
 title: Fenglong Song's Homepage
 # description: Much-Worse Jekyll theme for academic page and blog
-description: \@2021 Fenglong Song, Powered by Jekyll. 
+description: @2021 Fenglong Song, Powered by Jekyll. 
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
