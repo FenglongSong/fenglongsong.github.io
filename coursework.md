@@ -83,6 +83,8 @@ pubs:
 
 {% endfor %} -->
 
+## Courses at ETH
+
 ### Dynamics & Control
 
 - Robot Dynamics (Prof. Marco Hutter)
