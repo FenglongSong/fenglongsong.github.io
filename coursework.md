@@ -83,7 +83,7 @@ pubs:
 
 {% endfor %} -->
 
-## Courses at ETH
+## Courses I took at ETH Zurich:
 
 ### Dynamics & Control
 
