@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Coursework/
+permalink: /coursework/
 title: Coursework
 pubs:
 
